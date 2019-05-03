@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Dutic</string>
+
+    //pantalla de inicio
+    <string name="dutic">BIENVENIDOS</string>
+
+    //navegacion
+    <string name="mestudiante">Manual Estudiante</string>
+    <string name="mprofesor">Manual Docente</string>
+
+    //pantalla estudiante
+    <string name="title_activity_manual_estudiante">Manuales de Estudiante</string>
+    <string name="tab_text_video">video</string>
+    <string name="tab_text_pdf">PDF</string>
+
+    <string name="section_format_estudiante">Hello World from section: %1$d</string>
+
+    //pantalla docente
+    <string name="title_activity_manual_docente">Manuales de Docente</string>
+    <string name="tab_text_video_docente">video</string>
+    <string name="tab_text_pdf_docente">PDF</string>
+
+    <string name="pagina_dutic">Aula Virtual</string>
+
+    <string name="manuales">MANUALES</string>
+    <string name="videos">VIDEOS</string>
+</resources>
